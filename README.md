@@ -7,3 +7,4 @@ Software desenvolvido para compactar imagens
 - Ótimo para automatizar imagens para sites etc
 - Quando o limite de compactações é alcançado basta trocar a chave do programa
   
+<img src="z-compact.png">
